@@ -51,19 +51,19 @@
     <div class="content" id="content">
       <div class="wrapper splash">
 
-        <div class="conf">
+        <div class="conf stretch">
           <h2><a href="http://stretchcon.com" class="logo">STRETCH</a>STRETCH</h2>
           <h3>December 5-6, 2013, Budapest</h3>
           <p>First you grew. Now you lead. Join us at Stretch in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.</p>
         </div>
 
-        <div class="conf">
+        <div class="conf mlocjs">
           <h2><a href="http://mloc-js.com" class="logo">MLOC.JS</a>MLOC.JS</h2>
           <h3>February 2014, Budapest</h3>
           <p><strong>Large-scale Javascript is still here and so is the need for a conference like mloc.js.</strong><br /> In 2014 we present talks and workshops for advanced developers on the challenges of building and maintaining large and complex applications in JS.</p>
         </div>
 
-        <div class="conf">
+        <div class="conf ramp">
           <h2><a href="http://rampconf.com" class="logo">RAMP</a>RAMP</h2>
           <h3>July 2014, Budapest</h3>
           <p>A conference for those who have been in the trenches of building highly scalable backend systems.</p>
