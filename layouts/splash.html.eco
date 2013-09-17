@@ -58,7 +58,7 @@
         </div>
 
         <div class="conf mlocjs">
-          <h2><a href="http://mloc-js.com" class="logo">MLOC.JS</a>MLOC.JS</h2>
+          <h2><a href="http://mloc-js.com/2013/" class="logo">MLOC.JS</a>MLOC.JS</h2>
           <h3>February 2014, Budapest</h3>
           <p><strong>JavaScript hasn’t gone away and neither has the need for a conference like mloc.js. mloc.js 2014 will present talks and workshops for advanced developers on the challenges of building and maintaining large and complex applications in JavaScript.</strong></p>
 
@@ -66,7 +66,7 @@
         </div>
 
         <div class="conf ramp">
-          <h2><a href="http://rampconf.com" class="logo">RAMP</a>RAMP</h2>
+          <h2><a href="http://rampconf.com/2013/" class="logo">RAMP</a>RAMP</h2>
           <h3>July 2014, Budapest</h3>
 
           <p>A conference for those who have been in the trenches of building highly scalable backend systems.</p>
