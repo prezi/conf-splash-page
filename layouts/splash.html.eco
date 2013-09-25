@@ -24,7 +24,6 @@
 
   <!-- STYLES -->
   <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css">
-  <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/splash.css">
   <!-- / STYLES -->
 
   <!-- FACEBOOK TRACKING -->
@@ -45,44 +44,58 @@
 
 </head>
 <body>
-
-  <div class="global">
-
-    <div class="content" id="content">
-      <div class="wrapper splash">
-
+	<div class="content" id="content">
         <div class="conf stretch">
-          <h2><a href="http://stretchcon.com/2013/" class="logo">STRETCH</a>STRETCH</h2>
-          <h3>December 5-6, 2013, Budapest</h3>
-          <p><strong>First you grew. Now you lead. <a href="http://stretchcon.com/2013/">Join us at Stretch</a> in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.</strong></p>
-          <p>Watch out! Early bird tickets will be released shortly! So you can take the opportunity to get your hands on tickets at a reduced price. </p>
-          <p>If you agree with our mission and you would like to become a sponsor please <a href="mailto:hello@stretchcon.com">contact us for sponsor opportunities</a>.</p>
+            <div class="wrapper">
+                <h2><a href="http://stretchcon.com/2013/" class="logo">STRETCH</a>STRETCH</h2>
+                <h3>December 5-6, 2013, Budapest</h3>
+                <div class="description">
+                    <p class="head">First you grew. Now you lead. <a href="http://stretchcon.com/2013/">Join us at Stretch</a> in Budapest this December and get inspired by stories from leads and founders of great organisations as they talk about the challenges of leadership and management.</p>
+                    <p>Watch out! Early bird tickets will be released shortly! So you can take the opportunity to get your hands on tickets at a reduced price.</p>
+                    <p>If you agree with our mission and you would like to become a sponsor please <a href="mailto:hello@stretchcon.com">contact us for sponsor opportunities</a>.</p>
+                </div>
+            </div>
         </div>
 
         <div class="conf mlocjs">
-          <h2><a href="http://mloc-js.com/2013/" class="logo">MLOC.JS</a>MLOC.JS</h2>
-          <h3>February 2014, Budapest</h3>
-          <p><strong> After last year success, it will again present the industry's hottest speakers talks and workshops for advanced developers on the challenges of building and maintaining large and complex applications in JavaScript.</strong></p>
+            <div class="wrapper">
+                <h2><a href="http://mloc-js.com/2013/" class="logo">MLOC.JS</a>MLOC.JS</h2>
+                <h3>February 2014, Budapest</h3>
+                <div class="description">
+                    <p class="head">After last year success, it will again present the industry's hottest speakers talks and workshops for advanced developers on the challenges of building and maintaining large and complex applications in JavaScript.</p>
+                    <p>MLOC.JS 2014 will give you an unlimited amount of opportunities to learn, and network all at one conference.  In October, we'll release vouchers that will give you the opportunity to get your hands on tickets at a reduced price of. <a href="http://eepurl.com/FoO35">Apply for the vouchers</a> or contact us for <a href="mailto:contact@mloc-js.com">sponsor opportunities</a>. </p>
+                </div>
+            </div>
+        </div>
 
-          <p>MLOC.JS 2014 will give you an unlimited amount of opportunities to learn, and network all at one conference.  In October, we'll release vouchers that will give you the opportunity to get your hands on tickets at a reduced price of. <a href="http://eepurl.com/FoO35">Apply for the vouchers</a> or contact us for <a href="mailto:contact@mloc-js.com">sponsor opportunities</a>. </p>
+        <div class="conf craft">
+            <div class="wrapper">
+                <h2><a href="" class="logo">CRAFT</a>CRAFT</h2>
+                <h3>April 24-25, 2014, Budapest</h3>
+                <div class="description">
+                    <p class="head">CRAFT is about craftsmanship in software companies, which tools, methods, practices should be part of the toolbox of a modern developer and company. You can learn the most important topics from the best speakers and practitioners in our community.</p>
+                    <p>CRAFT is a nonprofit international conference. On November 15th, we'll release 50 vouchers for discounted tickets. Sign up for newsletter so you won't miss it! If you agree with our mission and you would like to become a sponsor please write us for <a href="mailto:medea.baccifava@prezi.com">sponsor opportunities</a>.</p>
+                </div>
+            </div>
         </div>
 
         <div class="conf ramp">
-          <h2><a href="http://rampconf.com/2013/" class="logo">RAMP</a>RAMP</h2>
-          <h3>July 2014, Budapest</h3>
-
-          <p><strong>The second edition of a sold out conference for those who have been in the trenches of building highly scalable backend systems.</strong></p>
-
-          <p>RAMP Conference 2013 was a great success. 15 speakers presented 630 minutes of material to an audience from 13 countries. If you don’t want miss the next event, <a href="http://eepurl.com/FoNAH">sign up for the RAMP newsletter now</a>.  Would you like to be our sponsor? <a href="mailto:info@rampconf.com">Contact us!</a></p>
+            <div class="wrapper">
+                <h2><a href="http://rampconf.com/2013/" class="logo">RAMP</a>RAMP</h2>
+                <h3>July 2014, Budapest</h3>
+                <div class="description">
+                    <p class="head">The second edition of a sold out conference for those who have been in the trenches of building highly scalable backend systems.</p>
+                    <p>RAMP Conference 2013 was a great success. 15 speakers presented 630 minutes of material to an audience from 13 countries. If you don’t want miss the next event, <a href="http://eepurl.com/FoNAH">sign up for the RAMP newsletter now</a>.  Would you like to be our sponsor? <a href="mailto:info@rampconf.com">Contact us!</a></p>
+                </div>
+            </div>
         </div>
 
-      </div>
+        <div class="clear"></div>
     </div>
-
-  </div>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="<%= @getTheme() %>/js/jquery-1.8.3.min.js"><\/script>')</script>
+  <script src="<%= @getTheme() %>/js/main.js"></script>
 
   <!-- GOOGLE ANALYTICS -->
   <script type="text/javascript">
