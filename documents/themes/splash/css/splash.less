@@ -55,6 +55,10 @@ body {
 	font-weight: bold;
 }
 
+.conf h2, .conf h3 {
+	line-height: 120%;
+}
+
 .conf h2 {
 	position: relative;
 	text-align: center;
@@ -71,7 +75,8 @@ body {
 	border-radius: 50%;
 	line-height: 0;
 	overflow: hidden;
-	background: #000000 no-repeat center center 50% 50%;
+	background: #000000 no-repeat center center;
+	background-size: 50% 50%;
 	margin-bottom: 20px;
 	font-size: 0%;
 
@@ -100,7 +105,8 @@ body {
 }
 
 .stretch h2 a {
-	background: #8cc63e url(../img/stretchLogo.png);
+	background-image: url(../img/stretchLogo.png);
+	background-color: #8cc63e;
 }
 
 .stretch a {
@@ -116,7 +122,8 @@ body {
 }
 
 .craft h2 a {
-	background: #E85A32 url(../img/craftLogo.png);
+	background-image: url(../img/craftLogo.png);
+	background-color: #E85A32;
 }
 
 .craft a {
@@ -124,7 +131,8 @@ body {
 }
 
 .ramp h2 a {
-	background: #5880a9 url(../img/rampLogo.png);
+	background-image: url(../img/rampLogo.png);
+	background-color: #5880a9;
 }
 
 .ramp a {
@@ -343,4 +351,5 @@ body {
 	.conf p.head {
 		margin-top: 30px;
 	}
+
 }
