@@ -15,5 +15,5 @@ Having the following directory sturcture
 │   |-- stretchcon
 ```
 
-the splash page can be updated with the following command [https://gist.github.com/nyuhuhuu/6668305]()
+the splash page can be updated with the following command [https://gist.github.com/nyuhuhuu/6668305](https://gist.github.com/nyuhuhuu/6668305)
 
