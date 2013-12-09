@@ -45,17 +45,6 @@
 </head>
 <body>
 	<div class="content" id="content">
-        <div class="conf stretch">
-            <div class="wrapper">
-                <h2><a href="http://stretchcon.com/2013/" class="logo">STRETCH</a>STRETCH</h2>
-                <h3>2014, Budapest</h3>
-                <div class="description">
-                  <p class="head"><a href="http://stretchcon.com/2013/">Stretch was a great conference in 2013</a>. Speakers like Sarah Novotny, Michael Lopp, Francois Mazoudier joined us for 2 days in Budapest to share their thoughts on leadership and management—how to stretch ourselves to become leaders instead of bosses.</p>
-                  <p>Did you miss the conference? Check the <a href="http://stretchcon.com/2013/#schedule">presentation materials and recordings</a> of Stretch 2013. <a href="http://eepurl.com/D17Ab">Subscribe to our newsletter</a> to recieve updates on upcoming events.</p>
-                </div>
-            </div>
-        </div>
-
         <div class="conf mlocjs">
             <div class="wrapper">
                 <h2><a href="http://mloc-js.com/2014/" class="logo">MLOC.JS</a>MLOC.JS</h2>
@@ -85,6 +74,16 @@
                 <div class="description">
                     <p class="head">The second edition of a sold out conference for those who have been in the trenches of building highly scalable backend systems.</p>
                     <p>RAMP Conference 2013 was a great success. 15 speakers presented 630 minutes of material to an audience from 13 countries. If you don’t want miss the next event, <a href="http://eepurl.com/FoNAH">sign up for the RAMP newsletter now</a>.  Would you like to be our sponsor? <a href="mailto:info@rampconf.com">Contact us!</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="conf stretch">
+            <div class="wrapper">
+                <h2><a href="http://stretchcon.com/2013/" class="logo">STRETCH</a>STRETCH</h2>
+                <h3>2014, Budapest</h3>
+                <div class="description">
+                  <p class="head"><a href="http://stretchcon.com/2013/">Stretch was a great conference in 2013</a>. Speakers like Sarah Novotny, Michael Lopp, Francois Mazoudier joined us for 2 days in Budapest to share their thoughts on leadership and management—how to stretch ourselves to become leaders instead of bosses.</p>
+                  <p>Did you miss the conference? Check the <a href="http://stretchcon.com/2013/#schedule">presentation materials and recordings</a> of Stretch 2013. <a href="http://eepurl.com/D17Ab">Subscribe to our newsletter</a> to recieve updates on upcoming events.</p>
                 </div>
             </div>
         </div>
