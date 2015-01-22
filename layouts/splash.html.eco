@@ -45,16 +45,6 @@
 </head>
 <body>
 	<div class="content" id="content">
-        <div class="conf mlocjs">
-            <div class="wrapper">
-                <h2><a href="http://mloc-js.com/2014/" class="logo">MLOC.JS</a>MLOC.JS</h2>
-                <h3>February 13-14, 2014, Budapest</h3>
-                <div class="description">
-                    <p class="head"><a href="/2014/">mloc.js 2014</a> is an international Javascript conference for people interested in the future of the language and the platform, the possibilities of JavaScript on the web and on the server side. For people doing or planning to do big JavaScript projects. And for people would like to see how is it possible to improve JavaScript by making it smarter, faster and sexy.</p>
-                    <p><a href="/2014/#tickets">Get your ticket now!</a></p>
-                </div>
-            </div>
-        </div>
 
         <div class="conf craft">
             <div class="wrapper">
@@ -63,6 +53,17 @@
                 <div class="description">
                     <p class="head">CRAFT is about craftsmanship in software companies, which tools, methods, practices should be part of the toolbox of a modern developer and company. You can learn the most important topics from the best speakers and practitioners in our community.</p>
                     <p>CRAFT is a nonprofit international conference. Sign up for newsletter so you won't miss it! If you agree with our mission and you would like to become a sponsor please write us for <a href="mailto:medea.baccifava@prezi.com">sponsor opportunities</a>.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="conf mlocjs">
+            <div class="wrapper">
+                <h2><a href="http://mloc-js.com/2015/" class="logo">MLOC.JS</a>MLOC.JS</h2>
+                <h3>June 17-19, 2015, Budapest</h3>
+                <div class="description">
+                    <p class="head"><a href="/2015/">mloc.js 2015</a> is an international Javascript conference for people interested in the future of the language and the platform, the possibilities of JavaScript on the web and on the server side. For people doing or planning to do big JavaScript projects. And for people would like to see how is it possible to improve JavaScript by making it smarter, faster and sexy.</p>
+                    <p><a href="/2015/#tickets">Get your ticket now!</a></p>
                 </div>
             </div>
         </div>
